@@ -1,0 +1,6 @@
+{
+  "name": "GNSS Rover",
+  "description": "Colector de datos crudos GNSS (Rover) de alta precisión para levantamientos topográficos y exportación RINEX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
